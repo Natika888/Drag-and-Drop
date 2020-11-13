@@ -2,6 +2,11 @@ body {
     background: darkblue;
 }
 
+.wrapper {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
 .fill {
     background-image: url('http://source.unsplash.com/random/150x150');
     position: relative;
