@@ -27,7 +27,7 @@ body {
 
 .hovered {
     background: #f4f4f4;
-    border-style: groove;
+    border-style: dashed;
 }
 
 .invisible {
